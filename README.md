@@ -1,6 +1,6 @@
 # sit323_737-2023-t1-prac7p
 
-# Docker container running on the kubenetes cluster.
+# Docker container running on the kubenetes cluster
 
 - Image Name: bpritch/web-node-app
 - Container Name: k8s*node-web-app_mypod_kubernetes-dashboard*(random string)
